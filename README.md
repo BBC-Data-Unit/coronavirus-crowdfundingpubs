@@ -13,6 +13,7 @@ The word "covid" appeared more than any other in a sample of 1,000 titles of app
 ## Get the data
 
 * CSV: [Snapshot of 1,000 projects on Crowdfunder on April 22 2020](https://github.com/BBC-Data-Unit/coronavirus-crowdfundingpubs/blob/master/crowdfunderscrape22apr_CLEANED.csv)
+* CSV: [Word frequency analysis on April 15](https://github.com/BBC-Data-Unit/coronavirus-crowdfundingpubs/blob/master/covidallwords.csv)
 
 ## Quotes and interviews
 
@@ -24,3 +25,7 @@ The word "covid" appeared more than any other in a sample of 1,000 titles of app
 ## Visualisation
 
 * Bar chart: Word frequency in 1,000 on Crowdfunder.co.uk
+
+## Scrips
+
+* R: [Analysis of word frequency](https://github.com/BBC-Data-Unit/coronavirus-crowdfundingpubs/blob/master/coronacrowd.R)
