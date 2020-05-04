@@ -14,6 +14,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * Yorkshire Live: [The crowdfunders raising money to help Yorkshire get through the coronavirus outbreak](https://www.examinerlive.co.uk/news/local-news/crowdfunders-raising-money-help-yorkshire-18146104) *24 April 2020*
 * Portsmouth: The News: [Portsmouth businesses facing 'massive' funding problem as they turn to the public to keep them alive](https://www.portsmouth.co.uk/business/portsmouth-businesses-facing-massive-funding-problem-they-turn-public-keep-them-alive-2549997) *25 April 2020*
+* Cornwall Live: [People in Cornwall are raising thousands to help us through the coronavirus outbreak](https://www.cornwalllive.com/news/cornwall-news/people-cornwall-raising-thousands-help-4088629) *3 May 2020*
 
 ## Get the data
 
