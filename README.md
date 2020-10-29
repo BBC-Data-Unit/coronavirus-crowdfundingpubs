@@ -33,7 +33,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * Bar chart: Word frequency in 1,000 on Crowdfunder.co.uk
 
-## Scrips
+## Scripts
 
 * R: [Analysis of word frequency](https://github.com/BBC-Data-Unit/coronavirus-crowdfundingpubs/blob/master/coronacrowdwords.R)
 
